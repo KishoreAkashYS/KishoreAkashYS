@@ -10,5 +10,8 @@
 * ⚡ Fun fact: I love badminton :tennis:.<br>
 
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishoreAkashYS&show_icons=true&theme=tokyonight)
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishoreAkashYS&show_icons=true&theme=tokyonight)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreAkashYS&layout=compact)](https://github.com/KsihoreAkashYS/github-readme-stats)
+
 
