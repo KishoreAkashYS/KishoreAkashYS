@@ -12,6 +12,10 @@
 
 ![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishoreAkashYS&show_icons=true&theme=tokyonight)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreAkashYS&layout=compact)](https://github.com/KsihoreAkashYS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreAkashYS&layout=compact)](https://github.com/KishoreAkashYS/github-readme-stats)<br>
+
+[![Kishore's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KishoreAkashYS)](https://github.com/KishoreAKashYS/github-readme-stats)
+
+
 
 
