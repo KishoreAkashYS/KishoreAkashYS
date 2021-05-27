@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning AI.
 * 💬 Ask me about programming:raising_hand:.
 * 📫 How to reach me: <br>
-      :love_letter:[LinkedIn](https://www.linkedin.com/in/kishore-akash-b76120193/)<br>
-      :mailbox_closed:[kishore12akash@ieee.org](https://https://mail.google.com/)
+      * :love_letter:[LinkedIn](https://www.linkedin.com/in/kishore-akash-b76120193/)<br>
+      * :mailbox_closed:[Mail - kishore12akash@ieee.org](https://mail.google.com/)
 * ⚡ Fun fact: I love badminton :tennis:.
 
