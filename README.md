@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreAkashYS&layout=compact)](https://github.com/KishoreAkashYS/github-readme-stats)<br>
 
-[![Kishore's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KishoreAkashYS)](https://github.com/KishoreAKashYS/github-readme-stats)
+
 
 
 
