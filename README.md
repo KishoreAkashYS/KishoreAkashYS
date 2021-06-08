@@ -2,7 +2,7 @@
 
 
 * 🔭 I’m currently working on Data Science and Machine learning
-* 🌱 I’m currently learning CV.
+* 🌱 I’m currently learning Computer Vision.
 * 💬 Ask me about programming:raising_hand:.
 * 📫 How to reach me: <br>
       * :love_letter:[LinkedIn](https://www.linkedin.com/in/kishore-akash-b76120193/)<br>
