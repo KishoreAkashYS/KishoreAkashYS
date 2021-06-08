@@ -5,8 +5,8 @@
 * 🌱 I’m currently learning Computer Vision.
 * 💬 Ask me about programming:raising_hand:.
 * 📫 How to reach me: <br>
-       \t:love_letter:[LinkedIn](https://www.linkedin.com/in/kishore-akash-b76120193/)<br>
-       \t:mailbox_closed:[Mail - kishore12akash@ieee.org](https://mail.google.com/)
+       :love_letter:[LinkedIn](https://www.linkedin.com/in/kishore-akash-b76120193/)<br>
+       :mailbox_closed:[Mail - kishore12akash@ieee.org](https://mail.google.com/)
 * ⚡ Fun fact: I love badminton :tennis:.<br>
 
 
