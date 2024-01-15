@@ -6,7 +6,7 @@
 * 💬 Ask me about programming:raising_hand:.
 * 📫 How to reach me: <br>
        :love_letter:[LinkedIn](https://www.linkedin.com/in/kishore-akash-b76120193/)<br>
-       :mailbox_closed:[Mail - kishore12akash@ieee.org](https://mail.google.com/)
+       :mailbox_closed:[Mail - kishore12akash@gmail.com](https://mail.google.com/)
 * ⚡ Fun fact: I love badminton :tennis:.<br>
 
 
